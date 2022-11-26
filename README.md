@@ -3,7 +3,9 @@ Link do deploy:
 
 ## Para iniciar o projeto
 1 - primeiro instalar a node modules:
-    digite: yarn
+    - yarn
 
 2 - rodar a aplicação no local host: 
-    digite: yarn dev
+    - yarn dev
+    
+3 - para navegar entre o profile o dashboard contendo todos os cards basta clickar na home para voltar
